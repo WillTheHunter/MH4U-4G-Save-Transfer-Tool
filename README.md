@@ -7,7 +7,7 @@ or opened directly as a local file.
 
 ## How to use
 
-1. Open `index.html` (or the GitHub Pages URL of this folder).
+1. Open `index.html` (or the GitHub Pages URL of this folder: https://willthehunter.github.io/MH4U-4G-Save-Transfer-Tool/).
 2. Drop your `user1` (or `user2,3`) file on the page. The tool decrypts it,
    verifies the checksum and shows your hunter's name / HR / funds / playtime.
 3. Pick the direction (**To 4G** or **To 4U**) and press **Convert & Download**.
