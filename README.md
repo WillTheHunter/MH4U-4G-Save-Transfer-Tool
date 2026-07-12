@@ -27,5 +27,5 @@ a manually edited one.
 
 ## Credits
 
-Klark for showing how to move the bytes in decrypted saves
-https://github.com/Rokumaehn/mh4edit for providing the decryption/encryption logic outside QuickBMS
+Klark for showing how to move the bytes in decrypted saves.
+https://github.com/Rokumaehn/mh4edit for providing the decryption/encryption logic outside QuickBMS.
