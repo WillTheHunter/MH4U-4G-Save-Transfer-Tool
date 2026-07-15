@@ -47,13 +47,13 @@ a{color:var(--accent2)}
 <body>
 <div class="wrap">
   <h1>MH4U ⇄ MH4G Save Converter
-    <span class="sub">Convert a decrypted-format <b>user1 / user2,3</b> save between Monster Hunter 4 Ultimate and Monster Hunter 4G — fully in your browser, nothing is uploaded.</span>
+    <span class="sub">Convert a decrypted-format <b>user1 / user2 / user3</b> save between Monster Hunter 4 Ultimate and Monster Hunter 4G — fully in your browser, nothing is uploaded.</span>
   </h1>
 
   <div class="card">
     <h2>1. Load your save file</h2>
     <div class="drop" id="drop">
-      Drop your <b>user1</b> (or user2,3) file here, or <b>click to browse</b><br>
+      Drop your <b>user1</b> (or user2, user3) file here, or <b>click to browse</b><br>
       <small>MH4U / MH4G save file, 81,408 bytes (from the game's user data)</small>
     </div>
     <input type="file" id="file">
@@ -87,6 +87,7 @@ a{color:var(--accent2)}
   </div>
 
   <footer>
+	The extra data files can be copied over from a game to another without conversion, but only the <b>card 1</b>, <b>card 2</b>, <b>card 3</b> and  <b>cardbox</b>. The other files should be replaced with their respective region versions since they contain DLC compatible with the game.<br><br>
     Runs 100% client-side (works on GitHub Pages or opened as a local file).<br>
     Crypto ported from <b>mh4edit</b>; conversion procedure from the MH4U⇄4G QuickBMS/Python tool.
   </footer>
